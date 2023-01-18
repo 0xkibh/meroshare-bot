@@ -1,7 +1,6 @@
 # MEROSHARE BOT
 
 This is meroshare bot, which will auto apply IPO of different company which are open.
-This is bet
 
 ## Get Started
 
@@ -30,9 +29,9 @@ Name,CapitalID,Username,Password,Bank Name,Kitta,CRN,TXN_PIN
 For example:
 Ram,13700,0124525,password123,NIC ASIA BANK LTD.,10,JYU8281811,1234
 
-Bank Name can be : "NIC ASIA BANK LTD.", "NABIL BANK LTD." (i.e Official Name)
-
 "Ram" here is just a placeholder to denote the account, it can be anything you like
+
+Bank Name can be : "NIC ASIA BANK LTD.", "NABIL BANK LTD." (i.e Official Name)
 ```
 
 ### 4. Now just run main.py file to run the script
