@@ -1,6 +1,15 @@
+<div align="center">
+
 # MEROSHARE BOT
 
-This is meroshare bot, which will auto apply IPO of different company which are open.
+[![Playwright](https://img.shields.io/pypi/v/playwright.svg)](https://pypi.python.org/pypi/playwright)
+[![License Badge](https://img.shields.io/github/license/tprototype/meroshare-bot?color=2b9348)](https://github.com/tprototype/meroshare-bot/blob/master/README.md)
+[![Releases](https://img.shields.io/badge/version-0.0.1-blue)](https://github.com/tprototype/meroshare-bot/releases)
+
+</div>
+
+
+**This is meroshare bot, which will auto apply IPO of different company which are open.**
 
 ## Get Started
 
@@ -31,7 +40,7 @@ Ram,13700,0124525,password123,NIC ASIA BANK LTD.,10,JYU8281811,1234
 
 "Ram" here is just a placeholder to denote the account, it can be anything you like
 
-Bank Name can be : "NIC ASIA BANK LTD.", "NABIL BANK LTD." (i.e Official Name)
+Bank Name can be : "NIC ASIA BANK LTD.", "NABIL BANK LTD.", "CIVIL BANK LTD.", "Nepal Investment Bank Ltd." ,"GARIMA BIKAS BANK LTD.", "NMB BANK LTD." (i.e Official Name)
 ```
 
 ### 4. Now just run main.py file to run the script
@@ -41,6 +50,8 @@ python main.py
 # or
 python3 main.py
 ```
+
+### Please :star: Star us on GitHub — it motivates us a lot!
 
 ### You can raise issues or send message to ask if there is any problem you faced in any step
 ### And suggestion are welcome :)
