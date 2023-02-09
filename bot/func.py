@@ -61,14 +61,16 @@ def apply_share(page,bank,kitta,crn,txn_no):
     page.query_selector("#crnNumber").fill(crn)
     time.sleep(1)
     page.query_selector("#disclaimer").click()
-    time.sleep(3)
+    time.sleep(1)
     # print(page.query_selector("button[type=submit]").inner_text())
     page.get_by_role("button",name="Proceed").click()
 
     page.query_selector("#transactionPIN").type(txn_no)
-
+    time.sleep(1)
     page.get_by_role("button",name="Apply").click()
+
     neotermcolor.cprint("IPO Applied Successfully","green")
+    time.sleep(1)
 
     # below code to logout the current user
     page.query_selector(".header-menu__link").click()

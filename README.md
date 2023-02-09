@@ -40,7 +40,7 @@ Ram,13700,0124525,password123,NIC ASIA BANK LTD.,10,JYU8281811,1234
 
 "Ram" here is just a placeholder to denote the account, it can be anything you like
 
-Bank Name can be : "NIC ASIA BANK LTD.", "NABIL BANK LTD.", "CIVIL BANK LTD.", "Nepal Investment Bank Ltd." ,"GARIMA BIKAS BANK LTD.", "NMB BANK LTD." (i.e Official Name)
+Bank Name can be : "NIC ASIA BANK LTD.", "Nabil Bank Limited.", "CIVIL BANK LTD.", "Nepal Investment Bank Ltd." ,"GARIMA BIKAS BANK LTD.", "NMB BANK LTD." (i.e Official Name)
 ```
 
 ### 4. Now just run main.py file to run the script
